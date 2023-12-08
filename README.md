@@ -1,7 +1,6 @@
 # API | Academic Data Management (Node.Js)
 
 ![Languages used](https://img.shields.io/github/languages/count/LinkOrleans/api-academic-data-management?style=flat-square)
-![Repository size](https://img.shields.io/github/repo-size/LinkOrleans/api-academic-data-management?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/LinkOrleans/api-academic-data-management?style=flat-square)
 
 Built in Node.js and using JSON formatting, this API offers efficient CRUD operations for instructors and classes, allowing easy registration, updating, listing and removal of data, in addition to allowing precise search using identifiers, facilitating information retrieval specific. It simplifies academic administration with uncomplicated integration, providing intuitive management.
